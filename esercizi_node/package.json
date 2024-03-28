@@ -1,0 +1,16 @@
+{
+  "name": "esercizi_node",
+  "version": "1.0.0",
+  "main": "esercizio1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "figlet": "^1.7.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
